@@ -18,7 +18,7 @@ This project's purpose was to create a command-line application that generates a
 
 ## Demo
 
-![Demo](team-profile-generator-module-10.mp4)
+https://watch.screencastify.com/v/Dgz783TIeri3yxv0eTRJ
 
 
 ## Instructions
