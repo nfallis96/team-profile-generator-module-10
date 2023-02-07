@@ -11,6 +11,9 @@ GitHub Repo: https://github.com/nfallis96/team-profile-generator-module10
 * [License](#license)
 
 
+
+
+
 ## Description
 
 This project's purpose was to create a command-line application that generates an HTML webpage of a team's profile. It works by answering a set of questions in the terminal. This application uses Node.js, the npm inquirer pacakage and jest; and there were required in order for the application to work.
@@ -18,7 +21,9 @@ This project's purpose was to create a command-line application that generates a
 
 ## Demo
 
-https://watch.screencastify.com/v/Dgz783TIeri3yxv0eTRJ
+https://user-images.githubusercontent.com/111160410/217321680-238e1453-f161-472a-b986-b6ae24f789f2.mp4
+
+
 
 
 ## Instructions
