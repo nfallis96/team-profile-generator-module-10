@@ -1,12 +1,6 @@
 # Team Profile Generator
 
-
-
-# Team Profile Generator
-
-
-GitHub Repository: https://github.com/nfallis96/team-profile-generator-module10
-
+GitHub Repo: https://github.com/nfallis96/team-profile-generator-module10
 
 ## Table of Contents
 * [Description](#description)
@@ -24,7 +18,7 @@ This project's purpose was to create a command-line application that generates a
 
 ## Demo
 
-
+![Demo](team-profile-generator-module-10.mp4)
 
 
 ## Instructions
@@ -96,7 +90,7 @@ const addAnotherEmployee = (teamArr) => {
 ![Node Badge](https://img.shields.io/badge/Environment-Node.js-yellow)
 ![Inquirer Badge](https://img.shields.io/badge/NPM-Inquirer-orange)
 ![Jest Badge](https://img.shields.io/badge/Test-Jest-green)
-![License Badge](https://img.shields.io/badge/License-MIT-gray)
+![License Badge](https://img.shields.io/badge/License-MIT-pink)
 
 
 ## License
