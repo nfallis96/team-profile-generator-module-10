@@ -21,7 +21,11 @@ This project's purpose was to create a command-line application that generates a
 
 ## Demo
 
-https://user-images.githubusercontent.com/111160410/217321680-238e1453-f161-472a-b986-b6ae24f789f2.mp4
+
+
+https://user-images.githubusercontent.com/111160410/220179939-29206718-4b08-40a3-ba6c-b666c3dd0a78.mp4
+
+
 
 
 
